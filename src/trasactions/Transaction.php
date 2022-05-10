@@ -14,7 +14,8 @@ final class Transaction
     public static function open($database)
     {
         if(empty(self::$conn)){
-            //self::$conn = Conn
+            //self::$conn = Conn  
+            //a
         }
     }
 }
